@@ -1,6 +1,6 @@
 
 
-# 🛡️ GRC – Practical Work, Job Responsibilities & Real Implementation
+# GRC – Practical Work, Job Responsibilities & Real Implementation
 
 ---
 
