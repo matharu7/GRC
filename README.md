@@ -1,6 +1,6 @@
 # 📘 GRC (Governance, Risk & Compliance) – Learning Path Repository
 
----
+
 
 ## 📌 About This Repository
 
@@ -13,13 +13,13 @@ It includes:
 * Real-world case studies
 * Hands-on exercises
 
----
+
 
 ## 🚀 How to Use This Repository (IMPORTANT)
 
 👉 Follow the files **in the exact order below**:
 
----
+
 
 ## 🧭 STEP-BY-STEP LEARNING PATH
 
@@ -30,7 +30,7 @@ It includes:
 * Understand what GRC is
 * Why it is important
 
----
+
 
 ### 🔹 Step 2: Build Foundation
 
@@ -39,7 +39,7 @@ It includes:
 * Governance, Risk, Compliance basics
 * Key concepts and principles
 
----
+
 
 ### 🔹 Step 3: Learn Key Terms (Use Anytime)
 
@@ -48,7 +48,7 @@ It includes:
 * Important definitions
 * Use this file whenever you get confused
 
----
+
 
 ### 🔹 Step 4: Security Policies
 
@@ -57,7 +57,7 @@ It includes:
 * Policies, standards, procedures
 * Documentation structure
 
----
+
 
 ### 🔹 Step 5: Risk Management Core
 
@@ -66,7 +66,7 @@ It includes:
 * Identify and analyze risks
 * Create risk register
 
----
+
 
 ### 🔹 Step 6: Compliance Knowledge
 
@@ -77,7 +77,7 @@ It includes:
 * PCI DSS
 * NIST
 
----
+
 
 ### 🔹 Step 7: Audit Process
 
@@ -86,7 +86,7 @@ It includes:
 * Internal vs External audits
 * Audit lifecycle
 
----
+
 
 ### 🔹 Step 8: Vendor Risk
 
@@ -95,7 +95,7 @@ It includes:
 * Third-party risk handling
 * Vendor assessment
 
----
+
 
 ### 🔹 Step 9: Incident Handling
 
@@ -105,7 +105,7 @@ It includes:
 * Reporting requirements
 * Compliance obligations
 
----
+
 
 ## 🧠 PRACTICAL LEARNING (VERY IMPORTANT)
 
@@ -116,7 +116,7 @@ It includes:
 * Real-world scenarios
 * Apply your knowledge
 
----
+
 
 ### 🔸 Step 11: Hands-on Practice
 
@@ -127,7 +127,7 @@ It includes:
 * Perform mock audits
 * Practice incident reporting
 
----
+
 
 ## 🎯 Learning Outcome
 
@@ -139,7 +139,7 @@ After completing this repository, you will be able to:
 * Manage vendors and incidents
 * Work as a **GRC Analyst (Entry-Level)**
 
----
+
 
 ## 💼 Career Path
 
@@ -150,7 +150,7 @@ This repository prepares you for roles like:
 * Compliance Analyst
 * Information Security Analyst
 
----
+
 
 ## 📌 Tips for Best Learning
 
@@ -160,4 +160,4 @@ This repository prepares you for roles like:
 * Revise glossary regularly
 * Focus on real-world application
 
----
+
